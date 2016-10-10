@@ -2,4 +2,4 @@ Open source licenses grant permission to everyone to use, modify, and share lice
 
 If you were looking for a reference table of all of the licenses on choosealicense.com, see the appendix.
 
-basic modify
+tow basic modify
